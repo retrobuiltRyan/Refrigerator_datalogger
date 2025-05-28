@@ -7,5 +7,5 @@ https://youtu.be/RkxqKmEyWRI
 
 ![data spoiler](https://github.com/user-attachments/assets/fc929bcb-24b7-4ea5-bc57-d707b12f6f03)
 
-PCB (Arduino Uno shield) too!
+PCB (Arduino Uno shield) too! Note the i2c pwr lables have a text error on the silkscreen. (oops)
 ![PCB](https://github.com/user-attachments/assets/72a5dde3-28e9-4e14-b018-bb8b7c056497)
